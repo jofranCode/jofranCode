@@ -9,6 +9,8 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
 
+###
+
 <p align="left">👨‍💻 Full Stack Developer and Software Engineering student.<br>🎮 Passionate about game development and creating unique experiences.<br>🧪 I enjoy experimenting with different programming languages and exploring new systems and technologies.<br>🌐 Always looking for exciting challenges and opportunities to learn something new.<br><br>✨ Building projects that combine creativity and technology!</p>
 
 ###
